@@ -22,8 +22,6 @@ I believe my background in banking systems and data protection laws brings a uni
 - Develop deep mastery of Linux and Windows environments as foundational platforms for defense  
 - Sharpen my skills in threat detection, incident response, and vulnerability management  
 - Gain real-world experience through hands-on labs, simulations, and live environments  
-- Build a resilient cybersecurity mindset rooted in discipline, curiosity, and accountability  
-- Understand the business impact of security decisions and learn to communicate risk effectively  
 - Contribute to the cybersecurity community through documentation, mentorship, and open learning  
 - Embrace responsibility as a future cyber defender — committed to protecting people, data, and systems - Continuously push myself to grow, adapt, and become a high-impact professional in the Blue Team world
 
